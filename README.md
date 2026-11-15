@@ -46,7 +46,7 @@ Experiencia diseñando y dirigiendo formación técnica (DevOps, backend, cloud)
 ## 📫 Contacto
 
 - 🌐 Web: [www.javier-rodriguez.com](https://www.javier-rodriguez.com)
-- 💼 LinkedIn: _añade aquí tu enlace_
+- 💼 LinkedIn: [https://www.linkedin.com/in/javier-rodriguez-soler-ba466031/](https://www.linkedin.com/in/javier-rodriguez-soler-ba466031/)
 
 ---
 
