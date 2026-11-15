@@ -29,10 +29,10 @@ Me interesa construir software mantenible: arquitecturas limpias, buenas prácti
 
 | Área | Tecnologías |
 |---|---|
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue 3](https://img.shields.io/badge/-Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Mensajería** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
+| **Mensajería** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) |
 | **Arquitectura** | CQRS · Event Sourcing · Arquitectura Hexagonal |
 
 ## 📚 Formación y divulgación
@@ -51,6 +51,7 @@ Experiencia diseñando y dirigiendo formación técnica (DevOps, backend, cloud)
 ---
 
 <p align="center">
-  <img alt="Estadísticas de GitHub" height="160" src="https://github-readme-stats.vercel.app/api?username=JavierRodriguez78&show_icons=true&hide_border=true&theme=default">
-  <img alt="Lenguajes principales" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRodriguez78&layout=compact&hide_border=true">
+  <a href="https://github.com/JavierRodriguez78?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/JavierRodriguez78?label=Seguidores&style=flat-square&logo=github"></a>
+  <a href="https://github.com/JavierRodriguez78?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Ver-repositorios-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://github.com/JavierRodriguez78?tab=stars"><img alt="Destacados" src="https://img.shields.io/badge/Ver-estrellas-F5C518?style=flat-square&logo=github&logoColor=black"></a>
 </p>
