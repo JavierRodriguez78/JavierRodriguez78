@@ -51,6 +51,21 @@ Experiencia diseñando y dirigiendo formación técnica (DevOps, backend, cloud)
 ---
 
 <p align="center">
+  <a href="https://github.com/JavierRodriguez78?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+      <img alt="Estadísticas de GitHub" src="./profile-summary-card-output/github/3-stats.svg" height="190">
+    </picture>
+  </a>
+  <a href="https://github.com/JavierRodriguez78?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+      <img alt="Lenguajes por repositorio" src="./profile-summary-card-output/github/1-repos-per-language.svg" height="190">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/JavierRodriguez78?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/JavierRodriguez78?label=Seguidores&style=flat-square&logo=github"></a>
   <a href="https://github.com/JavierRodriguez78?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Ver-repositorios-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://github.com/JavierRodriguez78?tab=stars"><img alt="Destacados" src="https://img.shields.io/badge/Ver-estrellas-F5C518?style=flat-square&logo=github&logoColor=black"></a>
